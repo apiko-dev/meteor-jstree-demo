@@ -7,5 +7,7 @@
 meteor-platform
 autopublish
 insecure
-jss:jstree-core
 jss:multiple-insert
+jss:jstree
+jss:jstree-dark-theme
+zhenya:forkme
