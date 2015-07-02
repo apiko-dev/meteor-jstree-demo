@@ -1,3 +1,9 @@
 body {
   background: #D9E3CB url('/tree.png') left bottom fixed no-repeat;
 }
+
+.container {
+  margin: 5% 10%;
+  padding: 1em;
+  background-color: RGBA(255, 255, 255, 0.75)
+}
